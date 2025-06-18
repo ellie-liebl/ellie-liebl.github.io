@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "J. Elizabeth Liebl / Website"
+title                    : "J. Elizabeth Liebl"
 title_separator          : "-"
 name                     : &name "J. Elizabeth Liebl"
 description              : &description "personal description"
@@ -23,11 +23,11 @@ repository               : "ellie-liebl/ellie-liebl.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "J. Elizabeth (Ellie) Liebl"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD Student in Computational Linguistics"
+  location         : "Farifax, VA"
+  employer         : "George Mason University"
   uri              : # URL
   email            : "jliebl@gmu.edu" 
 
