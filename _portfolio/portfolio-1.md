@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Ceramics"
+excerpt: "Some recent pieces from my studio: <br/><img src='/images/pottery-1.jpg'><br/><img src='/images/pottery-2.jpg'><br/><img src='/images/pottery-3.jpg'><br/><img src='/images/pottery-4.jpg'><br/><img src='/images/pottery-5.jpg'><br/><img src='/images/pottery-6.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+These are pieces that I threw and fired in 2026. I'm always trying to learn more and hope to take an advanced wheel thrown ceramics course this fall!
