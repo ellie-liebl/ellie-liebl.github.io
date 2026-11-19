@@ -2,9 +2,9 @@
 title: "GMU CLL Stanza Workshop"
 collection: talks
 type: "Internal Presentation"
-permalink: /talks/2025-16-10-stanza_workshop
+permalink: /talks/2025-10-16-stanza_workshop
 venue: "GMU Computational Linguistics Lab"
-date: 2025-16-10
+date: 2025-10-16
 location: "Fairfax, VA, USA"
 ---
 
