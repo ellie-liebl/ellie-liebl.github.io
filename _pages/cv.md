@@ -25,7 +25,7 @@ Publications
 {% for category in site.publication_category %}
   {% assign pubs = site.publications | where: "category", category[0] | reverse %}
   {% if pubs.size > 0 %}
-    <h3>{{ category[1].title }}</h3>
+    <h3>{ category[1].title }</h3>
     <ul>{% for post in pubs %}
       {% include archive-single-cv.html %}
     {% endfor %}</ul>
