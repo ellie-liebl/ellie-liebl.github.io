@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Linguistics, George Mason University, Fairfax, VA: 2025–present
+  * Presidential Scholar
+  * Supervisor: Matthew C. Kelley
+* MA in English, concentration in Linguistics, George Mason University, Fairfax, VA: 2023–2026
+  * Supervisor: Géraldine Walther
+* BA in English Language and Literature, minor in French, Bridgewater College, Bridgewater, VA: 2015–2020
+  * Study abroad: Institut universitaire d'Enseignement du Français langue Étrangère (IEFE), Université Paul-Valéry Montpellier III, Fall 2018. Elected student representative for a cohort of about 20.
 
 Work experience
 ======
