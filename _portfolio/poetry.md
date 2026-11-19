@@ -4,16 +4,16 @@ excerpt: "Selected poetry excerpts"
 collection: portfolio
 ---
 
-Fermi Calculations
-------
+## Fermi Calculations
+
 The distance between \
 your lips and mine \
 is negligible \
 let’s round down \
 to zero 
 
-Ghosts
-------
+## Ghosts
+
 Cotton rolls into the skies above us \
 A gentle thumb brushes hair from my brow \
 Rough winds chafe my cheeks as I wait and rust \
@@ -32,15 +32,15 @@ Then you pull my heart to your chest and sigh \
 I'm haunted, naturally, ever since \
 Seeing pictures no words would dare to mince 
 
-Moving Forward
-------
+## Moving Forward
+
 Happiness isn't what it seems \
 Abandoning those childhood dreams \
 Flower buds freeze and the bees leave \
 Seasons change and so must we 
 
-Miscellaneous Haikus
-------
+## Miscellaneous Haikus
+
 Warm sunlit puddles \
 Sprawling on yellow blankets \
 January sun \
