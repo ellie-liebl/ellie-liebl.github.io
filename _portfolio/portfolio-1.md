@@ -1,6 +1,6 @@
 ---
 title: "Ceramics"
-excerpt: "Some recent pieces from my studio: <br/><img src='/images/pottery-1.jpg'>"
+excerpt: "Some recent pieces from my studio"
 collection: portfolio
 ---
 These are pieces that I threw and fired in 2026. I'm always trying to learn more and hope to take an advanced wheel thrown ceramics course this fall!
