@@ -27,9 +27,15 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+ <h3>Conference Proceedings</h3>
+<ul>{% for post in proceedings %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
+<h3>Internal Presentations</h3>
+<ul>{% for post in internal %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
 
 Honors and Awards
 ======
