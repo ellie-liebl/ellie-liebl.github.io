@@ -94,10 +94,10 @@ Professional Society Membership
 Skills
 ------
 <h3>Language Skills:</h3>
-* English: Native
-* French: Mastery of CEFR B2 level French
+* **English**: Native fluency
+* **French**: Mastery of CEFR B2 level French
 
-Academic and Research Skills:
+<h3>Academic and Research Skills:</h3>
 * **Programming**: Python, R, Stanza, spaCy, CRFs, Gramble, Foma
 * **Computing**: HPC cluster workflows and batch job scheduling, GPU/CUDA environments
 * **Speech and corpus methods**: ASR training and evaluation (WER, CER, PER, PFER), IPA transcription, corpus construction and error annotation, Praat
