@@ -27,6 +27,9 @@ Publications
   
 Talks
 ======
+{% assign proceedings = site.talks | where: "type", "Conference Proceedings Talk" | reverse %}
+{% assign internal = site.talks | where: "type", "Internal Presentation" | reverse %}
+
  <h3>Conference Proceedings</h3>
 <ul>{% for post in proceedings %}
   {% include archive-single-talk-cv.html %}
