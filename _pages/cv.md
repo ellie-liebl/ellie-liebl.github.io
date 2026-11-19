@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * PhD in Linguistics, George Mason University, Fairfax, VA: 2025–present
   * Presidential Scholar
   * Supervisor: Matthew C. Kelley
