@@ -21,16 +21,25 @@ Education
 
 Publications
 ======
-
-{% for category in site.publication_category %}
-  {% assign pubs = site.publications | where: "category", category[0] | reverse %}
-  {% if pubs.size > 0 %}
-    <h3>{ category[1].title }</h3>
-    <ul>{% for post in pubs %}
-      {% include archive-single-cv.html %}
-    {% endfor %}</ul>
-  {% endif %}
-{% endfor %}
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h3>{{ category[1].title }}</h3><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
   
 Talks
 ======
