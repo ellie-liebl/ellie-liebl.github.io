@@ -9,7 +9,7 @@ The distance between \
 your lips and mine \
 is negligible \
 let’s round down \
-to zero \
+to zero 
 
 **Ghosts** \
 Cotton rolls into the skies above us \
@@ -28,13 +28,13 @@ Running into the thicket, bamboo briar \
 Then you pull my heart to your chest and sigh \
 \
 I'm haunted, naturally, ever since \
-Seeing pictures no words would dare to mince \
+Seeing pictures no words would dare to mince 
 
 **Moving Forward** \
 Happiness isn't what it seems \
 Abandoning those childhood dreams \
 Flower buds freeze and the bees leave \
-Seasons change and so must we \
+Seasons change and so must we 
 
 **Miscellaneous Haikus** \
 Warm sunlit puddles \
@@ -67,4 +67,4 @@ Find myself doing \
  \
 Listening to you \
 As you describe to me your day \
-All the things you saw \
+All the things you saw 
