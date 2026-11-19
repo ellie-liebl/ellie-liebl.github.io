@@ -5,14 +5,14 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% assign proceedings = site.talks | where: "type", "Conference Proceedings Talk" | reverse %}
-{% assign internal = site.talks | where: "type", "Internal Presentation" | reverse %}
-
 {% if site.talkmap_link == true %}
 
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
 {% endif %}
+
+{% assign proceedings = site.talks | where: "type", "Conference Proceedings Talk" | reverse %}
+{% assign internal = site.talks | where: "type", "Internal Presentation" | reverse %}
 
 <h3>Conference Proceedings</h3>
 <ul>{% for post in proceedings %}
@@ -23,5 +23,3 @@ author_profile: true
 <ul>{% for post in internal %}
   {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
-
-{% endfor %}
