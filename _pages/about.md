@@ -11,4 +11,4 @@ I am a linguist specializing in the application of computational methods to lang
 
 I am currently completing my PhD in Computational Linguistics at George Mason University, where I am a Presidential Scholar and Graduate Research Assistant. I was previously a Graduate Research Assistant on an NSF-funded NLP project in GMU's Computer Science department. My academic background combines linguistics, computational approaches, and cross-disciplinary collaboration. I am particularly invested in issues surrounding data collection in diasporic communities and the ethical, technical, and logistical challenges that accompany this work.
 
-In my spare time, I make wheel-thrown ceramics. Some examples of my work can be found at the "Portfolio" link above. 
+In my spare time, I make wheel-thrown ceramics. Some examples of my work can be found at the "Portfolio" link above. You can also find selected poems from my literature degree there. 
